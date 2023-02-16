@@ -1,0 +1,26 @@
+form{
+
+    margin: 0 40%;
+    height: 200px;
+    
+}
+
+input{
+text-align: center;
+    outline: none;
+    display: flex;
+    border-radius: 30px;
+    border: 1px solid gray;
+   
+}
+
+.mid{
+    margin: 20px 0;
+}
+
+button{
+
+    margin: 20px 35px 0;
+    border-radius: 30px;
+    border: 1px solid gray;
+}
